@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "bridging-annotation-backend"
+version = "0.1.0"
+description = ""
+authors = ["nobu-g <ueda-n127@hotmail.co.jp>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+uvicorn = "^0.17.6"
+fastapi = "^0.75.1"
+pyknp = "^0.6.1"
+kyoto-reader = { git = "https://github.com/ku-nlp/kyoto-reader.git", branch = "main" }
+bridging-crowd-lib = { path = "../lib", develop = true }
+PyYAML = "^5.4"
+watchdog = "^2.1"
+
+[tool.poetry.dev-dependencies]
+ipdb = "*"
+pytest = "*"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

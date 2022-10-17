@@ -1,0 +1,180 @@
+{
+  "did": "w201106-0000346300",
+  "target": {
+    "sid": "w201106-0000346300-2",
+    "tid": 5,
+    "dtid": 11
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "町名から",
+      "before": "",
+      "core": "町名",
+      "after": "から",
+      "is_cand": true,
+      "sid": "w201106-0000346300-1",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "市立",
+      "before": "",
+      "core": "市立",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0000346300-1",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "小・",
+      "before": "",
+      "core": "小",
+      "after": "・",
+      "is_cand": true,
+      "sid": "w201106-0000346300-1",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "中学校の",
+      "before": "",
+      "core": "中学校",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0000346300-1",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "学区を",
+      "before": "",
+      "core": "学区",
+      "after": "を",
+      "is_cand": true,
+      "sid": "w201106-0000346300-1",
+      "tid": 4
+    },
+    {
+      "dtid": 5,
+      "text": "検索することができます。",
+      "before": "",
+      "core": "検索することができます",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0000346300-1",
+      "tid": 5
+    },
+    {
+      "dtid": 6,
+      "text": "学校ごとの",
+      "before": "",
+      "core": "学校ごと",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0000346300-2",
+      "tid": 0
+    },
+    {
+      "dtid": 7,
+      "text": "学区を",
+      "before": "",
+      "core": "学区",
+      "after": "を",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 1
+    },
+    {
+      "dtid": 8,
+      "text": "検索する",
+      "before": "",
+      "core": "検索する",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 2
+    },
+    {
+      "dtid": 9,
+      "text": "場合は，",
+      "before": "",
+      "core": "場合",
+      "after": "は，",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 3
+    },
+    {
+      "dtid": 10,
+      "text": "「小学校及び",
+      "before": "「",
+      "core": "小学校",
+      "after": "及び",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 4
+    },
+    {
+      "dtid": 11,
+      "text": "中学校の",
+      "before": "",
+      "core": "中学校",
+      "after": "の",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 5
+    },
+    {
+      "dtid": 12,
+      "text": "通学",
+      "before": "",
+      "core": "通学",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 6
+    },
+    {
+      "dtid": 13,
+      "text": "区域に",
+      "before": "",
+      "core": "区域",
+      "after": "に",
+      "is_cand": true,
+      "sid": "w201106-0000346300-2",
+      "tid": 7
+    },
+    {
+      "dtid": 14,
+      "text": "関する",
+      "before": "",
+      "core": "関する",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 8
+    },
+    {
+      "dtid": 15,
+      "text": "規則」を",
+      "before": "",
+      "core": "規則",
+      "after": "」を",
+      "is_cand": true,
+      "sid": "w201106-0000346300-2",
+      "tid": 9
+    },
+    {
+      "dtid": 16,
+      "text": "ご覧ください。",
+      "before": "",
+      "core": "ご覧ください",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0000346300-2",
+      "tid": 10
+    }
+  ]
+}

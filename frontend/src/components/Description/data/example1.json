@@ -1,0 +1,190 @@
+{
+  "did": "w201106-0000205942",
+  "target": {
+    "sid": "w201106-0000205942-2",
+    "tid": 5,
+    "dtid": 9
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "育ててきた",
+      "before": "",
+      "core": "育ててきた",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000205942-1",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "ラッカセイの",
+      "before": "",
+      "core": "ラッカセイ",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0000205942-1",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "収穫を",
+      "before": "",
+      "core": "収穫",
+      "after": "を",
+      "is_cand": true,
+      "sid": "w201106-0000205942-1",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "しました。",
+      "before": "",
+      "core": "しました",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0000205942-1",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "地面の",
+      "before": "",
+      "core": "地面",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 0
+    },
+    {
+      "dtid": 5,
+      "text": "中に",
+      "before": "",
+      "core": "中",
+      "after": "に",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 1
+    },
+    {
+      "dtid": 6,
+      "text": "ピーナッツの",
+      "before": "",
+      "core": "ピーナッツ",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 2
+    },
+    {
+      "dtid": 7,
+      "text": "さやが",
+      "before": "",
+      "core": "さや",
+      "after": "が",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 3
+    },
+    {
+      "dtid": 8,
+      "text": "育っているはずですが",
+      "before": "",
+      "core": "育っているはずです",
+      "after": "が",
+      "is_cand": false,
+      "sid": "w201106-0000205942-2",
+      "tid": 4
+    },
+    {
+      "dtid": 9,
+      "text": "茎を",
+      "before": "",
+      "core": "茎",
+      "after": "を",
+      "is_cand": false,
+      "sid": "w201106-0000205942-2",
+      "tid": 5
+    },
+    {
+      "dtid": 10,
+      "text": "抜くと",
+      "before": "",
+      "core": "抜く",
+      "after": "と",
+      "is_cand": false,
+      "sid": "w201106-0000205942-2",
+      "tid": 6
+    },
+    {
+      "dtid": 11,
+      "text": "手ごたえも",
+      "before": "",
+      "core": "手ごたえ",
+      "after": "も",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 7
+    },
+    {
+      "dtid": 12,
+      "text": "なく",
+      "before": "",
+      "core": "なく",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000205942-2",
+      "tid": 8
+    },
+    {
+      "dtid": 13,
+      "text": "するっと",
+      "before": "",
+      "core": "するっと",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0000205942-2",
+      "tid": 9
+    },
+    {
+      "dtid": 14,
+      "text": "抜けてしまいます。",
+      "before": "",
+      "core": "抜けてしまいます",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0000205942-2",
+      "tid": 10
+    },
+    {
+      "dtid": 15,
+      "text": "さやは",
+      "before": "",
+      "core": "さや",
+      "after": "は",
+      "is_cand": false,
+      "sid": "w201106-0000205942-3",
+      "tid": 0
+    },
+    {
+      "dtid": 16,
+      "text": "ほとんど",
+      "before": "",
+      "core": "ほとんど",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0000205942-3",
+      "tid": 1
+    },
+    {
+      "dtid": 17,
+      "text": "ついていません。",
+      "before": "",
+      "core": "ついていません",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0000205942-3",
+      "tid": 2
+    }
+  ]
+}

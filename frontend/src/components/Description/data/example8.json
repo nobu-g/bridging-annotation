@@ -1,0 +1,204 @@
+{
+  "qid": "w201106-0001620242-q7",
+  "qidx": 7,
+  "did": "w201106-0001620242",
+  "target": {
+    "sid": "w201106-0001620242-3",
+    "tid": 0,
+    "dtid": 15
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "壁に",
+      "before": "",
+      "core": "壁",
+      "after": "に",
+      "is_cand": true,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "取付ける",
+      "before": "",
+      "core": "取付ける",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "開閉",
+      "before": "",
+      "core": "開閉",
+      "after": "",
+      "is_cand": true,
+      "mergeNext": true,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "式の",
+      "before": "",
+      "core": "式",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "電飾",
+      "before": "",
+      "core": "電飾",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 4
+    },
+    {
+      "dtid": 5,
+      "text": "看板です。",
+      "before": "",
+      "core": "看板",
+      "after": "です。",
+      "is_cand": true,
+      "sid": "w201106-0001620242-1-01",
+      "tid": 5
+    },
+    {
+      "dtid": 6,
+      "text": "開閉",
+      "before": "",
+      "core": "開閉",
+      "after": "",
+      "is_cand": true,
+      "mergeNext": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 0
+    },
+    {
+      "dtid": 7,
+      "text": "部を",
+      "before": "",
+      "core": "部",
+      "after": "を",
+      "is_cand": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 1
+    },
+    {
+      "dtid": 8,
+      "text": "パッチン",
+      "before": "",
+      "core": "パッチン",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 2
+    },
+    {
+      "dtid": 9,
+      "text": "錠で",
+      "before": "",
+      "core": "錠",
+      "after": "で",
+      "is_cand": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 3
+    },
+    {
+      "dtid": 10,
+      "text": "とめてありますので、",
+      "before": "",
+      "core": "とめてありますので",
+      "after": "、",
+      "is_cand": false,
+      "sid": "w201106-0001620242-2",
+      "tid": 4
+    },
+    {
+      "dtid": 11,
+      "text": "お客様自身で",
+      "before": "",
+      "core": "お客様自身",
+      "after": "で",
+      "is_cand": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 5
+    },
+    {
+      "dtid": 12,
+      "text": "開閉が",
+      "before": "",
+      "core": "開閉",
+      "after": "が",
+      "is_cand": true,
+      "sid": "w201106-0001620242-2",
+      "tid": 6
+    },
+    {
+      "dtid": 13,
+      "text": "簡単に",
+      "before": "",
+      "core": "簡単に",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0001620242-2",
+      "tid": 7
+    },
+    {
+      "dtid": 14,
+      "text": "できます。",
+      "before": "",
+      "core": "できます",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0001620242-2",
+      "tid": 8
+    },
+    {
+      "dtid": 15,
+      "text": "電球",
+      "before": "",
+      "core": "電球",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001620242-3",
+      "tid": 0
+    },
+    {
+      "dtid": 16,
+      "text": "交換の",
+      "before": "",
+      "core": "交換",
+      "after": "の",
+      "is_cand": false,
+      "sid": "w201106-0001620242-3",
+      "tid": 1
+    },
+    {
+      "dtid": 17,
+      "text": "メンテナンスも",
+      "before": "",
+      "core": "メンテナンス",
+      "after": "も",
+      "is_cand": false,
+      "sid": "w201106-0001620242-3",
+      "tid": 2
+    },
+    {
+      "dtid": 18,
+      "text": "お手軽です。",
+      "before": "",
+      "core": "お手軽です",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0001620242-3",
+      "tid": 3
+    }
+  ]
+}

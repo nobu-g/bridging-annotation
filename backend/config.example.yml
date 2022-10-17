@@ -1,0 +1,14 @@
+data_dir: ./data
+log_dir: ./log
+list_api: true
+jobs:
+  job-name:
+    enabled: true
+    job_file: data/jobs/job.json
+    apis:
+      task: true
+      submit: true
+      result: true
+ds_dir: ./data/dataset
+result_dir: ./result
+question_dir: ./data/question

@@ -1,0 +1,40 @@
+@import '../variants';
+
+span {
+    &.a, &.b, &.vanilla, &.gold, &.na {
+        display: inline-block;
+        vertical-align: middle;
+        margin: .2rem;
+        box-sizing: border-box;
+    }
+
+    &.a {
+        border: 1px solid #17a2b8;
+        padding: .2rem .3rem;
+        border-radius: .25rem;
+    }
+
+    &.gold {
+        border: 3px solid #cfca64;
+        padding: .2rem .3rem;
+        border-radius: .25rem;
+    }
+
+    &.b {
+        color: #b81762;
+        border-bottom: .15rem solid #b81762;
+    }
+
+    &.na {
+        color: #212529;
+        border: 2px solid $na_active_bg_color;
+        padding: .2rem .3rem;
+        margin: .2rem;
+        border-radius: .25rem;
+    }
+
+    &.vanilla {
+        padding: .1rem 0;
+        margin: .2rem 0;
+    }
+}

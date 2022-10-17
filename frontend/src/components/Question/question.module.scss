@@ -1,0 +1,25 @@
+button.phrase-btn {
+    //font-size: 1.1rem;
+    padding: .2rem .3rem;
+    margin: .2rem .2rem;
+    vertical-align: middle;
+}
+
+span {
+    &.b, &.vanilla {
+        display: inline-block;
+        margin: .2rem;
+        box-sizing: border-box;
+    }
+
+    &.b {
+        color: #b81762;
+        border-bottom: .15rem solid #b81762;
+    }
+
+    &.vanilla {
+        padding: .1rem 0;
+        margin: .2rem 0;
+        vertical-align: middle;
+    }
+}

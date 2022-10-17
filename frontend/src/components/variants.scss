@@ -1,0 +1,58 @@
+$active_color: #212529;
+$active2_color: #fff;
+$inactive_bg_color: transparent;
+$active_bg_color: rgba(23, 162, 184, 0.4);
+$active2_bg_color: #17a2b8;
+$na_inactive_bg_color: $inactive_bg_color;
+$na_active_bg_color: #808080;
+$na_active_color: $active2_color;
+$na_inactive_color: #505050;
+
+button {
+  &.btn-inactive {
+    color: $active_color;
+    background-color: $inactive_bg_color;
+    border-color: $active2_bg_color;
+    &:hover {
+      background-color: rgba(23, 162, 184, 0.2);
+    }
+  }
+
+  &.btn-active {
+    color: $active_color;
+    background-color: $active_bg_color;
+    border-color: $active2_bg_color;
+    &:hover {
+      background-color: rgba(23, 162, 184, 0.6);
+    }
+  }
+
+  &.btn-active2 {
+    color: $active2_color;
+    background-color: $active2_bg_color;
+    border-color: $active2_bg_color;
+    &:hover {
+      color: $active2_color;
+      background-color: #138496
+    }
+  }
+
+  &.btn-na-inactive {
+    color: $na_inactive_color;
+    background-color: $na_inactive_bg_color;
+    border-color: $na_active_bg_color;
+    &:hover {
+      background-color: rgba(128, 128, 128, 0.3);
+    }
+  }
+
+  &.btn-na-active {
+    color: $na_active_color;
+    background-color: $na_active_bg_color;
+    border-color: $na_active_bg_color;
+    &:hover {
+      color: $na_active_color;
+      background-color: #606060
+    }
+  }
+}

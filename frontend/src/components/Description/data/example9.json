@@ -1,0 +1,177 @@
+{
+  "qid": "example-q1",
+  "qidx": 1,
+  "did": "example",
+  "target": {
+    "sid": "1",
+    "tid": 7,
+    "dtid": 7
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "この",
+      "before": "",
+      "core": "この",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 0,
+      "mergeNext": false
+    },
+    {
+      "dtid": 1,
+      "text": "機会に",
+      "before": "",
+      "core": "機会",
+      "after": "に",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 1,
+      "mergeNext": false
+    },
+    {
+      "dtid": 2,
+      "text": "ぜひ",
+      "before": "",
+      "core": "ぜひ",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 2,
+      "mergeNext": false
+    },
+    {
+      "dtid": 3,
+      "text": "ご参加頂き、",
+      "before": "",
+      "core": "ご参加頂き",
+      "after": "、",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 3,
+      "mergeNext": false
+    },
+    {
+      "dtid": 4,
+      "text": "ご招待",
+      "before": "",
+      "core": "ご招待",
+      "after": "",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 4,
+      "mergeNext": false
+    },
+    {
+      "dtid": 5,
+      "text": "チケットを",
+      "before": "",
+      "core": "チケット",
+      "after": "を",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 5,
+      "mergeNext": false
+    },
+    {
+      "dtid": 6,
+      "text": "ゲットして",
+      "before": "",
+      "core": "ゲットして",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 6,
+      "mergeNext": false
+    },
+    {
+      "dtid": 7,
+      "text": "ご家族や",
+      "before": "",
+      "core": "ご家族",
+      "after": "や",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 7,
+      "mergeNext": false
+    },
+    {
+      "dtid": 8,
+      "text": "お友達を",
+      "before": "",
+      "core": "お友達",
+      "after": "を",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 8,
+      "mergeNext": false
+    },
+    {
+      "dtid": 9,
+      "text": "お誘い",
+      "before": "",
+      "core": "お誘い",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 9,
+      "mergeNext": false
+    },
+    {
+      "dtid": 10,
+      "text": "いただき",
+      "before": "",
+      "core": "いただき",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 10,
+      "mergeNext": false
+    },
+    {
+      "dtid": 11,
+      "text": "選手の",
+      "before": "",
+      "core": "選手",
+      "after": "の",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 11,
+      "mergeNext": false
+    },
+    {
+      "dtid": 12,
+      "text": "後押しを",
+      "before": "",
+      "core": "後押し",
+      "after": "を",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 12,
+      "mergeNext": false
+    },
+    {
+      "dtid": 13,
+      "text": "お願いいたします",
+      "before": "",
+      "core": "お願いいたします",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 13,
+      "mergeNext": false
+    },
+    {
+      "dtid": 14,
+      "text": "!",
+      "before": "",
+      "core": "!",
+      "after": "",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 14,
+      "mergeNext": false
+    }
+  ]
+}

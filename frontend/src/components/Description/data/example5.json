@@ -1,0 +1,140 @@
+{
+  "did": "w201106-0001311117",
+  "target": {
+    "sid": "w201106-0001311117-1",
+    "tid": 4,
+    "dtid": 4
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "男女",
+      "before": "",
+      "core": "男女",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "共に",
+      "before": "",
+      "core": "共に",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "優勝と",
+      "before": "",
+      "core": "優勝",
+      "after": "と",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "いう",
+      "before": "",
+      "core": "いう",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "悲願に",
+      "before": "",
+      "core": "悲願",
+      "after": "に",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 4
+    },
+    {
+      "dtid": 5,
+      "text": "向けた、",
+      "before": "",
+      "core": "向けた",
+      "after": "、",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 5
+    },
+    {
+      "dtid": 6,
+      "text": "立大",
+      "before": "",
+      "core": "立大",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 6
+    },
+    {
+      "dtid": 7,
+      "text": "ローラー",
+      "before": "",
+      "core": "ローラー",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 7
+    },
+    {
+      "dtid": 8,
+      "text": "ホッケー",
+      "before": "",
+      "core": "ホッケー",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 8
+    },
+    {
+      "dtid": 9,
+      "text": "部の",
+      "before": "",
+      "core": "部",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 9
+    },
+    {
+      "dtid": 10,
+      "text": "熱き",
+      "before": "",
+      "core": "熱き",
+      "after": "",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 10
+    },
+    {
+      "dtid": 11,
+      "text": "戦いが",
+      "before": "",
+      "core": "戦い",
+      "after": "が",
+      "is_cand": true,
+      "sid": "w201106-0001311117-1",
+      "tid": 11
+    },
+    {
+      "dtid": 12,
+      "text": "始まる。",
+      "before": "",
+      "core": "始まる",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0001311117-1",
+      "tid": 12
+    }
+  ]
+}

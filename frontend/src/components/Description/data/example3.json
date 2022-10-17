@@ -1,0 +1,100 @@
+{
+  "did": "w201106-0001518553",
+  "target": {
+    "sid": "w201106-0001518553-3",
+    "tid": 1,
+    "dtid": 1
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "店舗",
+      "before": "",
+      "core": "店舗",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "タイプ・",
+      "before": "",
+      "core": "タイプ",
+      "after": "・",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "住居",
+      "before": "",
+      "core": "住居",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "タイプの",
+      "before": "",
+      "core": "タイプ",
+      "after": "の",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "トレーラー",
+      "before": "",
+      "core": "トレーラー",
+      "after": "",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 4
+    },
+    {
+      "dtid": 5,
+      "text": "ハウスも",
+      "before": "",
+      "core": "ハウス",
+      "after": "も",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 5
+    },
+    {
+      "dtid": 6,
+      "text": "取り揃え、",
+      "before": "",
+      "core": "取り揃え",
+      "after": "、",
+      "is_cand": false,
+      "sid": "w201106-0001518553-3",
+      "tid": 6
+    },
+    {
+      "dtid": 7,
+      "text": "オーダーも",
+      "before": "",
+      "core": "オーダー",
+      "after": "も",
+      "is_cand": true,
+      "sid": "w201106-0001518553-3",
+      "tid": 7
+    },
+    {
+      "dtid": 8,
+      "text": "承ります。",
+      "before": "",
+      "core": "承ります",
+      "after": "。",
+      "is_cand": false,
+      "sid": "w201106-0001518553-3",
+      "tid": 8
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "qid": "ex1-q9",
+  "qidx": 9,
+  "did": "ex1",
+  "target": {
+    "sid": "2",
+    "tid": 10,
+    "dtid": 18
+  },
+  "phrases": [
+    {
+      "dtid": 0,
+      "text": "配電",
+      "before": "",
+      "core": "配電",
+      "after": "",
+      "is_cand": true,
+      "mergeNext": true,
+      "sid": "1",
+      "tid": 0
+    },
+    {
+      "dtid": 1,
+      "text": "盤の",
+      "before": "",
+      "core": "盤",
+      "after": "の",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 1
+    },
+    {
+      "dtid": 2,
+      "text": "日常",
+      "before": "",
+      "core": "日常",
+      "after": "",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 2
+    },
+    {
+      "dtid": 3,
+      "text": "管理，",
+      "before": "",
+      "core": "管理",
+      "after": "，",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 3
+    },
+    {
+      "dtid": 4,
+      "text": "定期",
+      "before": "",
+      "core": "定期",
+      "after": "",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 4
+    },
+    {
+      "dtid": 5,
+      "text": "点検に",
+      "before": "",
+      "core": "点検",
+      "after": "に",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 5
+    },
+    {
+      "dtid": 6,
+      "text": "不安は",
+      "before": "",
+      "core": "不安",
+      "after": "は",
+      "is_cand": true,
+      "sid": "1",
+      "tid": 6
+    },
+    {
+      "dtid": 7,
+      "text": "ありませんか。",
+      "before": "",
+      "core": "ありません",
+      "after": "か。",
+      "is_cand": false,
+      "sid": "1",
+      "tid": 7
+    },
+    {
+      "dtid": 8,
+      "text": "普段",
+      "before": "",
+      "core": "普段",
+      "after": "",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 0
+    },
+    {
+      "dtid": 9,
+      "text": "目に",
+      "before": "",
+      "core": "目",
+      "after": "に",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 1
+    },
+    {
+      "dtid": 10,
+      "text": "する",
+      "before": "",
+      "core": "する",
+      "after": "",
+      "is_cand": false,
+      "sid": "2",
+      "tid": 2
+    },
+    {
+      "dtid": 11,
+      "text": "ことの",
+      "before": "",
+      "core": "こと",
+      "after": "の",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 3
+    },
+    {
+      "dtid": 12,
+      "text": "少ない",
+      "before": "",
+      "core": "少ない",
+      "after": "",
+      "is_cand": false,
+      "sid": "2",
+      "tid": 4
+    },
+    {
+      "dtid": 13,
+      "text": "高・",
+      "before": "",
+      "core": "高",
+      "after": "・",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 5
+    },
+    {
+      "dtid": 14,
+      "text": "低圧",
+      "before": "",
+      "core": "低圧",
+      "after": "",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 6
+    },
+    {
+      "dtid": 15,
+      "text": "配電",
+      "before": "",
+      "core": "配電",
+      "after": "",
+      "is_cand": true,
+      "mergeNext": true,
+      "sid": "2",
+      "tid": 7
+    },
+    {
+      "dtid": 16,
+      "text": "盤の",
+      "before": "",
+      "core": "盤",
+      "after": "の",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 8
+    },
+    {
+      "dtid": 17,
+      "text": "内部",
+      "before": "",
+      "core": "内部",
+      "after": "",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 9
+    },
+    {
+      "dtid": 18,
+      "text": "構造を",
+      "before": "",
+      "core": "構造",
+      "after": "を",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 10
+    },
+    {
+      "dtid": 19,
+      "text": "目で",
+      "before": "",
+      "core": "目",
+      "after": "で",
+      "is_cand": true,
+      "sid": "2",
+      "tid": 11
+    },
+    {
+      "dtid": 20,
+      "text": "見て",
+      "before": "",
+      "core": "見て",
+      "after": "",
+      "is_cand": false,
+      "sid": "2",
+      "tid": 12
+    },
+    {
+      "dtid": 21,
+      "text": "理解できます。",
+      "before": "",
+      "core": "理解できます",
+      "after": "。",
+      "is_cand": false,
+      "sid": "2",
+      "tid": 13
+    }
+  ]
+}

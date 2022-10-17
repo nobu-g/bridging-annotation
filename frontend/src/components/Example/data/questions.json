@@ -1,0 +1,1114 @@
+[
+  {
+    "qid": "w201106-0001147490-q2",
+    "qidx": 2,
+    "did": "w201106-0001147490",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0001147490-2",
+      "tid": 0,
+      "dtid": 6
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "shiyou",
+        "before": "",
+        "core": "shiyou",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "jikan niwa,",
+        "before": "",
+        "core": "jikan",
+        "after": "niwa,",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 2,
+        "text": "junbi・",
+        "before": "",
+        "core": "junbi",
+        "after": "・",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "atokatazuke no",
+        "before": "",
+        "core": "atokatazuke",
+        "after": "no",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "jikan wo",
+        "before": "",
+        "core": "jikan",
+        "after": "wo",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "fukumi masu.",
+        "before": "",
+        "core": "fukumi masu",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0001147490-1",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": "isu・",
+        "before": "",
+        "core": "isu",
+        "after": "・",
+        "is_cand": false,
+        "sid": "w201106-0001147490-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "tsukue wo",
+        "before": "",
+        "core": "tsukue",
+        "after": "wo",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "shiyoushita",
+        "before": "",
+        "core": "shiyoushita",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001147490-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "toki wa,",
+        "before": "",
+        "core": "toki",
+        "after": "wa,",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "moto no",
+        "before": "",
+        "core": "moto",
+        "after": "no",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "joutai ni",
+        "before": "",
+        "core": "joutai",
+        "after": "ni",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 12,
+        "text": "modoshite kudasai.",
+        "before": "",
+        "core": "modoshite kudasai",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0001147490-2",
+        "tid": 6,
+        "mergeNext": false
+      }
+    ]
+  },
+  {
+    "qid": "w201106-0001147490en-q2",
+    "qidx": 2,
+    "did": "w201106-0001147490",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0001147490-2",
+      "tid": 1,
+      "dtid": 7
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "The usage",
+        "before": "The",
+        "core": "usage",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "time",
+        "before": "",
+        "core": "time",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 2,
+        "text": "includes",
+        "before": "",
+        "core": "includes",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001147490-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "the time",
+        "before": "the",
+        "core": "time",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "for preparation",
+        "before": "for",
+        "core": "preparation",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "and cleanup.",
+        "before": "and",
+        "core": "cleanup",
+        "after": ".",
+        "is_cand": true,
+        "sid": "w201106-0001147490-1",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": " Please return",
+        "before": " ",
+        "core": "Please return",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001147490-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "chairs",
+        "before": "",
+        "core": "chairs",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "and desks",
+        "before": "and",
+        "core": "desks",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "to their",
+        "before": "to",
+        "core": "their",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "original",
+        "before": "",
+        "core": "original",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "state",
+        "before": "",
+        "core": "state",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001147490-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 12,
+        "text": "when you have used them.",
+        "before": "",
+        "core": "when you have used them",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0001147490-2",
+        "tid": 6,
+        "mergeNext": false
+      }
+    ]
+  },
+  {
+    "qid": "w201106-0001108936-q5",
+    "qidx": 5,
+    "did": "w201106-0001108936",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0001108936-2",
+      "tid": 2,
+      "dtid": 8
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "inuwarabi wa",
+        "before": "",
+        "core": "inuwarabi",
+        "after": "wa",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "shigai",
+        "before": "",
+        "core": "shigai",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-1",
+        "tid": 1,
+        "mergeNext": true
+      },
+      {
+        "dtid": 2,
+        "text": "chi no",
+        "before": "",
+        "core": "chi",
+        "after": "no",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "kadan no",
+        "before": "",
+        "core": "kadan",
+        "after": "no",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "naka ni",
+        "before": "",
+        "core": "naka",
+        "after": "ni",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "haeru koto mo arimasu.",
+        "before": "",
+        "core": "haeru koto mo arimasu",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0001108936-1",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": "kono",
+        "before": "",
+        "core": "kono",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "nakama mo",
+        "before": "",
+        "core": "nakama",
+        "after": "mo",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "shurui ga",
+        "before": "",
+        "core": "shurui",
+        "after": "ga",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "ooku,",
+        "before": "",
+        "core": "ooku",
+        "after": ",",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "shikamo",
+        "before": "",
+        "core": "shikamo",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "zasshu ga",
+        "before": "",
+        "core": "zasshu",
+        "after": "ga",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 12,
+        "text": "ooku",
+        "before": "",
+        "core": "ooku",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 13,
+        "text": "deki",
+        "before": "",
+        "core": "deki",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 7,
+        "mergeNext": false
+      },
+      {
+        "dtid": 14,
+        "text": "miwake mo",
+        "before": "",
+        "core": "miwake",
+        "after": "mo",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 8,
+        "mergeNext": false
+      },
+      {
+        "dtid": 15,
+        "text": "konnan desu.",
+        "before": "",
+        "core": "konnan desu",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 9,
+        "mergeNext": false
+      }
+    ]
+  },
+  {
+    "qid": "w201106-0001108936en-q5",
+    "qidx": 5,
+    "did": "w201106-0001108936",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0001108936-2",
+      "tid": 1,
+      "dtid": 5
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "Athyrium niponicum",
+        "before": "",
+        "core": "Athyrium niponicum",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "sometimes grows",
+        "before": "sometimes",
+        "core": "grows",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-1",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 2,
+        "text": "in flower beds",
+        "before": "in",
+        "core": "flower beds",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "in urban areas.",
+        "before": "in",
+        "core": "urban areas",
+        "after": ".",
+        "is_cand": true,
+        "sid": "w201106-0001108936-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "There are",
+        "before": "",
+        "core": "There are",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "many species",
+        "before": "many",
+        "core": "species",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": "of this family,",
+        "before": "of this",
+        "core": "family ",
+        "after": ",",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "and many hybrids,",
+        "before": "and many",
+        "core": "hybrids",
+        "after": ",",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "making",
+        "before": "",
+        "core": "making",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "them",
+        "before": "",
+        "core": "them",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "difficult",
+        "before": "",
+        "core": "difficult",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0001108936-2",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "to distinguish.",
+        "before": "to",
+        "core": "distinguish",
+        "after": ".",
+        "is_cand": true,
+        "sid": "w201106-0001108936-2",
+        "tid": 7,
+        "mergeNext": false
+      }
+    ]
+  },
+  {
+    "qid": "w201106-0000672111-q2",
+    "qidx": 2,
+    "did": "w201106-0000672111",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0000672111-1",
+      "tid": 4,
+      "dtid": 4
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "この",
+        "before": "",
+        "core": "この",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "コーナーでは",
+        "before": "",
+        "core": "コーナー",
+        "after": "では",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 2,
+        "text": "オオサンショウウオに",
+        "before": "",
+        "core": "オオサンショウウオ",
+        "after": "に",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "関連した",
+        "before": "",
+        "core": "関連した",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "グッズの",
+        "before": "",
+        "core": "グッズ",
+        "after": "の",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "紹介を",
+        "before": "",
+        "core": "紹介",
+        "after": "を",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": "します。",
+        "before": "",
+        "core": "します",
+        "after": "。",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "なじみの",
+        "before": "",
+        "core": "なじみ",
+        "after": "の",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "ある",
+        "before": "",
+        "core": "ある",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "生き物ではないので、",
+        "before": "",
+        "core": "生き物ではない",
+        "after": "ので、",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "関連",
+        "before": "",
+        "core": "関連",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "グッズは",
+        "before": "",
+        "core": "グッズ",
+        "after": "は",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 12,
+        "text": "非常に",
+        "before": "",
+        "core": "非常に",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 13,
+        "text": "少ないです。",
+        "before": "",
+        "core": "少ない",
+        "after": "です。",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 14,
+        "text": "おもしろい",
+        "before": "",
+        "core": "おもしろい",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 15,
+        "text": "ものを",
+        "before": "",
+        "core": "もの",
+        "after": "を",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 16,
+        "text": "見つけたら、",
+        "before": "",
+        "core": "見つけたら",
+        "after": "、",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 17,
+        "text": "この",
+        "before": "",
+        "core": "この",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 18,
+        "text": "コーナーで",
+        "before": "",
+        "core": "コーナー",
+        "after": "で",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 19,
+        "text": "紹介していきます。",
+        "before": "",
+        "core": "紹介していきます",
+        "after": "。",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 5,
+        "mergeNext": false
+      }
+    ]
+  },
+  {
+    "qid": "w201106-0000672111en-q2",
+    "qidx": 2,
+    "did": "w201106-0000672111",
+    "createdFrom": "",
+    "target": {
+      "sid": "w201106-0000672111-1",
+      "tid": 4,
+      "dtid": 4
+    },
+    "phrases": [
+      {
+        "dtid": 0,
+        "text": "In this",
+        "before": "In",
+        "core": "this",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 1,
+        "text": "corner,",
+        "before": "",
+        "core": "corner",
+        "after": ",",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 2,
+        "text": "we",
+        "before": "",
+        "core": "we",
+        "after": "に",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 3,
+        "text": "will introduce",
+        "before": "will",
+        "core": "introduce",
+        "after": "",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 4,
+        "text": "goods",
+        "before": "",
+        "core": "goods",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 5,
+        "text": "related",
+        "before": "",
+        "core": "related",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-1",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 6,
+        "text": "to the Japanese giant salamander.",
+        "before": "to the",
+        "core": "Japanese giant salamander",
+        "after": ".",
+        "is_cand": true,
+        "sid": "w201106-0000672111-1",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 7,
+        "text": "As it",
+        "before": "",
+        "core": "As it",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 8,
+        "text": "is not",
+        "before": "",
+        "core": "is not",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 9,
+        "text": "a familiar creature,",
+        "before": "a",
+        "core": "familiar creature",
+        "after": ",",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 10,
+        "text": "there are",
+        "before": "",
+        "core": "there are",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 11,
+        "text": "very few",
+        "before": "",
+        "core": "very few",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 12,
+        "text": "related",
+        "before": "",
+        "core": "related",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 5,
+        "mergeNext": false
+      },
+      {
+        "dtid": 13,
+        "text": "goods.",
+        "before": "",
+        "core": "goods",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0000672111-2",
+        "tid": 6,
+        "mergeNext": false
+      },
+      {
+        "dtid": 14,
+        "text": "If I",
+        "before": "If",
+        "core": "I",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 0,
+        "mergeNext": false
+      },
+      {
+        "dtid": 15,
+        "text": "find",
+        "before": "",
+        "core": "find",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 1,
+        "mergeNext": false
+      },
+      {
+        "dtid": 16,
+        "text": "something interesting,",
+        "before": "",
+        "core": "something interesting",
+        "after": ",",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 2,
+        "mergeNext": false
+      },
+      {
+        "dtid": 17,
+        "text": "I will",
+        "before": "",
+        "core": "I will",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 3,
+        "mergeNext": false
+      },
+      {
+        "dtid": 18,
+        "text": "introduce it",
+        "before": "",
+        "core": "introduce it",
+        "after": "",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 4,
+        "mergeNext": false
+      },
+      {
+        "dtid": 19,
+        "text": "in this corner.",
+        "before": "in",
+        "core": "this corner",
+        "after": ".",
+        "is_cand": false,
+        "sid": "w201106-0000672111-3",
+        "tid": 5,
+        "mergeNext": false
+      }
+    ]
+  }
+]
